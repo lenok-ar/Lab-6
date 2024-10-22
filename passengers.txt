@@ -1,0 +1,7 @@
+Ivanov Ivan Ivanovich 3 25.2
+Petrov Petr Petrovich 4 16.9
+Fedorov Fedor Fedorovich 2 13.5
+Mikhaylov Mikhail Mikhaylovich 5 17.0
+Ivanova Anna Sergeevna 5 30.5
+Petrova Mariya Viktorovna 4 26.7
+Sidorova Svetlana Alexandrovna 28.9
